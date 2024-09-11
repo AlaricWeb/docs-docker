@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Feature Docker
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Feature Docker compose
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Feature k8s
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
